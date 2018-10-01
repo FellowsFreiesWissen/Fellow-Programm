@@ -3,12 +3,19 @@
 
 
 
-Programmjahr 2018/2019
->> https://de.wikiversity.org/wiki/Wikiversity:Fellow-Programm_Freies_Wissen/Fellows2018
+[Programmjahr 2018/2019](https://de.wikiversity.org/wiki/Wikiversity:Fellow-Programm_Freies_Wissen/Fellows2018)
 
-Programmjahr 2017/2018
->> https://de.wikiversity.org/wiki/Wikiversity:Fellow-Programm_Freies_Wissen/Fellows2017
+- https://github.com/MakerTobey/FellowFreiesWissen_Microfluidics
+- https://github.com/amchagas/red2pmic
 
-Programmjahr 2016/2017
 
->> https://de.wikiversity.org/wiki/Wikiversity:Fellow-Programm_Freies_Wissen/Fellows2016
+[Programmjahr 2017/2018](https://de.wikiversity.org/wiki/Wikiversity:Fellow-Programm_Freies_Wissen/Fellows2017)
+
+- https://github.com/PeerHerholz/open_science_fellowship_project
+- [felix11h.github.io/blog/](http://felix11h.github.io/blog/).
+
+
+[Programmjahr 2016/2017](https://de.wikiversity.org/wiki/Wikiversity:Fellow-Programm_Freies_Wissen/Fellows2016)
+
+- https://github.com/vanyh/handkeinzungen
+- https://github.com/Eryops1/Fellowprogram
