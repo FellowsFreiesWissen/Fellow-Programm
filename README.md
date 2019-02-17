@@ -24,6 +24,6 @@ https://de.wikiversity.org/wiki/Wikiversity:Fellow-Programm_Freies_Wissen/Fellow
 - https://github.com/Eryops1/Fellowprogram
 
 
-## Referezen
+## Referenzen
 - https://de.wikibooks.org/wiki/Handbuch_Open_Science#Rechtswissenschaft
 - Berlin call to action for Open Science - [Recommendations to research institutions](https://en.wikiversity.org/wiki/Wikimedia_Deutschland/Open_Science_Fellows_Program/Berlin_Call_to_Action)
