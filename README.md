@@ -8,6 +8,7 @@ https://de.wikiversity.org/wiki/Wikiversity:Fellow-Programm_Freies_Wissen/Fellow
 
 - https://github.com/MakerTobey/FellowFreiesWissen_Microfluidics
 - https://github.com/FOSH-following-demand
+- https://github.com/bellerophons-pegasus/lobib
 
 
 ## Programmjahr 2017/2018
